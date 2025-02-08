@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Alireza Rahimi Pour Anaraki, a software development specialist who has transitioned into network management, monitoring, Linux server administration, and DevOps. I'm passionate about learning new technologies and have gained hands-on experience in these areas. I'm always ready to collaborate with different teams and build amazing projects! 🚀
+👋 Hello! I'm Alireza Rahimipour Anaraki, a software development specialist who has transitioned into network management, monitoring, Linux server administration, and DevOps. I'm passionate about learning new technologies and have gained hands-on experience in these areas. I'm always ready to collaborate with different teams and build amazing projects! 🚀
 
 
 ## 🌐 Socials:
