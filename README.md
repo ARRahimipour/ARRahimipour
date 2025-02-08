@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Alireza Rahimipour Anaraki, a 23-year-old mobile developer specializing in React Native and Flutter. I'm also a full-stack developer with extensive experience in Next.js. I have a deep understanding of the React framework and its ecosystem. Passionate about coding and always eager to learn new technologies. Let's create something amazing together! 🚀
+👋 Hello! I'm Alireza Rahimi-Pour Anaraki, a software development specialist who has transitioned into network management, monitoring, Linux server administration, and DevOps. I'm passionate about learning new technologies and have gained hands-on experience in these areas. I'm always ready to collaborate with different teams and build amazing projects! 🚀
 
 
 ## 🌐 Socials:
